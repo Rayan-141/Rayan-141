@@ -10,7 +10,7 @@
 </div>
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Rayan-141/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Rayan-141/count.svg"/>  
 </p>
 
 
@@ -75,8 +75,7 @@
 
 <div align="center"> 
   
-![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-141&theme=blue-green)
-
+![Rayan-141's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-141&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
@@ -95,9 +94,7 @@
   
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-141&theme=2077)
 
-![Rayan-141 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-141&theme=blue-green)
- 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-141&theme=2077&utcOffset=8)
+![Rayan-141 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-141&theme=github-dark)
 
  ![](https://github-profile-trophy.vercel.app/?username=Rayan-141&theme=juicyfresh&row=2&column=4)
 <p>
