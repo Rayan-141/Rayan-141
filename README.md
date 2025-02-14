@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello+Welcome+To+My+Git-Hub!!+👋🏻;+I'm+Rayan+Rawat;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=37&center=true&vCenter=true&width=570&height=70&duration=3300&lines=Hello+Welcome+To+My+Git-Hub!!+👋🏻;+I'm+Rayan+Rawat;" /></h1>
 
 
 <h1 align="center">Hi, I'm Rayan Rawat </h1>
@@ -10,7 +10,7 @@
 </div>
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Rayan-17/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Rayan-141/count.svg" />  
 </p>
 
 
@@ -20,7 +20,7 @@
 <img align="right" height="360" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" height="45%" width="45%"  />  
 
 
-<p>🌱 I am currently Learnning :  c++ , NOCODE , Python </p>
+<p>🌱 I am currently Learnning : JAVA , DBMS , CN  </p>
 
 <p>👨‍💻 I am a B.Tech CSE student</p>
 
@@ -29,6 +29,7 @@
 
 <a href="https://skillicons.dev">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" /> <div align="left"> <img src="https://skillicons.dev/icons?i=html,vscode,github,git" />
 <img src="https://skillicons.dev/icons?i=c,notion" /><br>
 <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
@@ -74,32 +75,30 @@
 
 <div align="center"> 
   
-![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=blue-green)
+![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-141&theme=blue-green)
 
 </div>
 
 
 <div align="center"> 
 
-[![Rayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=1b181b&color=09e8ec&line=04fbd2&point=148cc8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+[![Rayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayan-141&bg_color=1b181b&color=09e8ec&line=04fbd2&point=148cc8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
 
-
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=radical)
-
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-141&theme=2077)
 </div>
 
 <div align = " center"> 
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=radical)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-141&theme=2077)
+ ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-141&theme=2077)
+  
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-141&theme=2077)
 
-  ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=radical)
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=radical)
-
-![Rayan-17 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-17&theme=blue-green)
+![Rayan-141 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-141&theme=blue-green)
  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=2077&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-141&theme=2077&utcOffset=8)
 
- ![](https://github-profile-trophy.vercel.app/?username=Rayan-17&theme=juicyfresh&row=2&column=4)
+ ![](https://github-profile-trophy.vercel.app/?username=Rayan-141&theme=juicyfresh&row=2&column=4)
 <p>
 
   
