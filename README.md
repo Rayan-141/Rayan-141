@@ -1,8 +1,8 @@
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=37&center=true&vCenter=true&width=570&height=70&duration=3300&lines=Hello+Welcome+To+My+Git-Hub!!+👋🏻;+I'm+Rayan+Rawat;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=37&center=true&vCenter=true&width=570&height=70&duration=3450&lines=Hello+Welcome+To+My+Git-Hub!!+😊;+I'm+Rayan+Rawat;" /></h1>
 
 
-<h1 align="center">Hi, I'm Rayan Rawat </h1>
+<h1 align="center"> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></h1>
 <h2 align="center">An enthusiastic Computer Science student with a strong passion for coding and technology.</h2>
 
 </div>
@@ -76,6 +76,7 @@
 <div align="center"> 
   
 ![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-141&theme=blue-green)
+
 
 </div>
 
